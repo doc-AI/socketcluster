@@ -24,7 +24,7 @@
     "sc-domain": "~1.0.1",
     "sc-emitter": "~1.1.0",
     "sc-errors": "~1.3.0",
-    "socketcluster-server": "~6.1.0",
+    "socketcluster-server": "https://github.com/doc-AI/socketcluster-server.git#token_saving",
     "uid-number": "0.0.5",
     "uuid": "3.0.1"
   },
